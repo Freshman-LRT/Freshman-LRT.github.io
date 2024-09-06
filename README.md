@@ -1,3 +1,3 @@
-# pianfan.github.io
+# Freshman-LRT.github.io
 
 My Personal Blog via GitHub
